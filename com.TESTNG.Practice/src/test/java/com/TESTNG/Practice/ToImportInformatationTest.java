@@ -17,6 +17,7 @@ public void importa(){
 	System.out.println("hello");
 	//hello
 	//call
+	System.out.println("hi");
 	System.out.println("THE DATA IS IMPORTED");
 
 }
