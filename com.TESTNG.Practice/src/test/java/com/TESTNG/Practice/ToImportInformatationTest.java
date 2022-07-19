@@ -14,6 +14,7 @@ public void importa(){
 	System.out.println("BROWSER "+browser);
 	System.out.println("USERNAME "+username);
 	System.out.println("PASSWORD "+password);
+	System.out.println("");
 	
 	System.out.println("THE DATA IS IMPORTED");
 
