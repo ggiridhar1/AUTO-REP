@@ -19,6 +19,7 @@ public void importa(){
 	//call
 	System.out.println("hi");
 	System.out.println("THE DATA IS IMPORTED");
+	System.err.println("trrl");
 
 }
 }
